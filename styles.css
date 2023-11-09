@@ -11,8 +11,13 @@ h1{
   padding: 10px;
   margin: 10px;
   background: #b293d1;
+  border-radius: 20px;
 }
 .assign img{
   width: 200px;
   padding: 10px;
+  border: 2px dotted midnightblue;
 }
+a:hover{
+  text-decoration: none;
+  color: #301934
