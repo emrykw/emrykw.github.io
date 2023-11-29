@@ -11,7 +11,7 @@ h1{
   display: block;
 }
 h1:hover{
-  color:hotpink;
+  color:#553a70;
   text-align: center;
   width: 100%;
   display: block;
@@ -28,12 +28,12 @@ h1:hover{
 .assign img{
   width: 200px;
   padding: 10px;
-  border: 2px solid midnightblue;
+  border: 2px solid #372b82;
 }
 .assign img:hover {
-width: 200px;
-margin: 10px;
-border: 2px dotted yellow;
+  width: 200px;
+  margin: 10px;
+  border: 2px solid #d9d5f5;
 }
 a{
   text-decoration: none;
